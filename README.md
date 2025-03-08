@@ -10,7 +10,7 @@ Wykonane zadania w ramach projektu:
 - zaprojektowanie i stworzenie warstwy wizualnej i interfejsu użytkownika
 - przeprowadzanie testów manualnych
 
-- ENG
+ENG
 UrzedasPL is a prototype mobile application designed to facilitate access to official information and enable convenient appointment scheduling. The app also supports city halls employees by providing tools for managing submissions and documents.
 
 Tasks completed within the project:
